@@ -15,8 +15,11 @@ In addition to the analysis, we have created a rental finder function which will
 	 - There are 473 observations in the NY subway dataset with 6 variables of URL of each location's URL page, object ID, location name, longtitude, latitude, the lines in each location and note which includes the train schedules.
     
 - The scripts we have used during the process:
-   - RMarkdown: In the analysis folder, the files titled "CombinedProgress" are the main files.
-   - Shiny App: In the app folder, the "app.R" file is the main one.
+   - RMarkdown: In the analysis folder, the files titled "Report" are the main files.
+   
+   	- Report.pdf would be the main file to view everything put together.
+   
+   - Shiny App: In the app folder, the "Airbnb_app.R" file is the main one.
 
 *This project was done by Karan Dassi, Marzuq Khan, and Amy Lu*
 
