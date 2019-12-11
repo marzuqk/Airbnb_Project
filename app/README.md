@@ -4,7 +4,7 @@ Karan worked on the first 3 tabs and followed the format of one of our homeworks
 
 Marzuq worked on the next 2 tabs to show the relationship between Price of airbnb's and the distance from subways.
 
-Amy worked on being able to filter airbnb options based on the factors most customers may look for such as budget, neighborhood, listing type, and number of reviews.
+Amy worked on the last 2 tabs to be able to filter airbnb options based on the factors most customers may look for such as budget, neighborhood, listing type, and number of reviews.
 
 ## An Explanation of Marzuq's Tabs
 
