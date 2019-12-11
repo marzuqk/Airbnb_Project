@@ -4,7 +4,7 @@ New York is one of the most popular spots for tourists around the world. Airbnb 
 
 Our Shiny Dashboard gives a visual interactive presentation of the main AirBnb dataset. There is a univariate analyses (tab: Histogram) where we can visually understand how the different variables from the main dataset are spread by using histograms and bar plots along with one sample t-test for all the individual variables. Then, there is a bivariate analyses (tab: Plot) which shows the comparison between any two variables from the data set which we want to show.
 
-With our Shiny dashboard, we can visually understanding where the rentals are, how much each rental costs and what are the influencial factors to the rental price. We have also incooperated the NY subway dataset with our AirBnB dataset so that we can see if there is any association between rental prices and the distance between a rental unit and the distance of a subway station.
+With our Shiny dashboard, we can visually understanding where the rentals are, how much each rental costs and what are the influencial factors to the rental price. We have also incorporated the NY subway dataset with our AirBnB dataset so that we can see if there is any association between rental prices and the distance between a rental unit and the distance of a subway station.
 
 In addition to the analysis, we have created a rental finder function which will help visitors search the units based on their preference. The tourists can review and select the rentals that they are interested in with ease.
 
