@@ -1,6 +1,6 @@
 # About the App
 
-Karan worked on the first 3 tabs and followed the format of one of our homeworks, to show some general exploratory data analysis applications
+Karan worked on the first 3 tabs which show some general exploratory data analysis applications
 
 Marzuq worked on the next 2 tabs to show the relationship between Price of airbnb's and the distance from subways.
 
