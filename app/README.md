@@ -6,6 +6,10 @@ Marzuq worked on the next 2 tabs to show the relationship between Price of airbn
 
 Amy worked on the last 2 tabs to be able to filter airbnb options based on the factors most customers may look for such as budget, neighborhood, listing type, and number of reviews.
 
+## An Explanation of Karan's Tabs
+
+Our Shiny Dashboard begins with the first tab displaying a visual presentation of the main AirBnb dataset. There is a univariate analyses (tab: Histogram) where we can visually understand how the different variables from the main dataset are spread by using histograms and bar plots along with one sample t-test for all the individual variables. Then, there is a bivariate analyses (tab: Plot) which shows the comparison between any two variables from the data set which we want to show.
+
 ## An Explanation of Marzuq's Tabs
 
 - I had to incorporate the new york city subway data set for both of these tabs and link them together with our main airbnb dataset, but not with a traditional join
