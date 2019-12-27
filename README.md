@@ -2,7 +2,7 @@
 
 New York is one of the most popular spot for tourists around the world. Airbnb has been changing the way tourists travel. Therefore, our team would like to explore the Airbnbs in New York City in 2019. Our project will start with exploratory data analysis followed by spatial analysis among all the rental locations, rental pricing, and the distance of subway stations in a Shiny App.
 
-With our Shiny dashboard, we can visually understand where rentals are, how much each rental costs and what are the influencial factors to the rental price. We have also incorporated the NY subway dataset with our AirBnB dataset so that we can see if there is any association between rental prices and the distance between a rental unit and the distance of a subway station.
+With our Shiny dashboard, we can visually understand where rentals are, how much each rental costs and what are the influencial factors towards rental price. We have also incorporated the NY subway dataset with our AirBnB dataset so that we can see if there is any association between rental prices and the distance between a rental unit and the subway station.
 
 In addition to the analysis, we have created a rental finder function which will help visitors search the units based on their preference. The tourists can review and select the rentals that they are interested in with ease.
 
